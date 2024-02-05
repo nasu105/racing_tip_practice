@@ -20,3 +20,5 @@ race_id_list = ["201902010101", "201902010102", "201902010103"]
 
 # 関数をテスト
 test = scrape_race_results(race_id_list)
+
+

@@ -8,3 +8,4 @@ beautifulsoup4
 optuna
 matplotlib
 lxml
+html5lib
