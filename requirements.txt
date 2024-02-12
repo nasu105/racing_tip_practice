@@ -9,3 +9,4 @@ optuna
 matplotlib
 lxml
 html5lib
+imblanced-learn
